@@ -3,7 +3,7 @@
  <html>
  <body>
  <div name="top" align="center">
- 	<img src="images/top.jpg" width="1000" height="250"/>
+ 	<img src="images/top.jpg" width="850" height="200"/>
  </div>
  <div name="middle" align="center">
  
